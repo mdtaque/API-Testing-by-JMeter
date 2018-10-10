@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1539214031560,2268,HTTP Request,200,OK,Thread Group 1-1,text,true,,2142,169,1,2,http://info.venturepulse.org:8080/service-webapp/api/AllEmployeeResources,2268,0,359
+1539214033865,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,349,0,1,2,null,0,0,0
+1539214031560,2326,HTTP Request,200,OK,Thread Group 2-1,text,true,,2142,169,1,1,http://info.venturepulse.org:8080/service-webapp/api/AllEmployeeResources,2326,0,359
+1539214033887,1,Debug Sampler,200,OK,Thread Group 2-1,text,true,,346,0,1,1,null,0,0,0
